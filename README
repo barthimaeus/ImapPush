@@ -1,1 +1,4 @@
-This file was created by PyCharm 2.6.2 for binding GitHub repository
+#ImapPush
+##Setup
+*easy_install requests
+*easy_install pyaml
