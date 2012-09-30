@@ -1,0 +1,6 @@
+hostname: myserver.com
+port: 143
+username: alice
+password: secret
+apikey: _apikey_
+regid: [_android-app-gcm-registration-id_]
