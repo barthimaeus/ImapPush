@@ -4,3 +4,5 @@
 ## Setup
 * easy_install requests
 * easy_install pyaml
+* adjust config.sample.yaml
+* rename to config.yaml

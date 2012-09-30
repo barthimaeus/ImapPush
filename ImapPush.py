@@ -23,7 +23,7 @@ def checkmail():
     threading.Timer(3, checkmail).start()
 
 if __name__ == "__main__":
-    with open("config.sample.yaml", "r") as f:
+    with open("config.yaml", "r") as f:
         config = yaml.load(f.read())
 
     headers = {"Content-Type": "application/json",
